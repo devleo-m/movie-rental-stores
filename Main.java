@@ -20,7 +20,7 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
         do {
-            System.out.println("Welcomido to Bora Bill movies! filmes");
+            System.out.println("Welcome to Bora Bill movies! filmes");
             System.out.println("1. Movie Registration");
             System.out.println("2. Movie Query");
             System.out.println("0. Exit");
@@ -69,8 +69,7 @@ public class Main {
             movies.get(i).print();
         }
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Para continuar click enter");
+        System.out.println("To continue click enter");
         String click = scanner.nextLine();
-
     }
 }
