@@ -97,3 +97,4 @@ Movie rented successfully! Return date: 11/03/2024
 Press Enter to continue...
 ```
 
+-   [ ] Generate a custom movie identifier for the movies - using a pattern of two letters and 3 numbers, e.g.: "AA-000"
